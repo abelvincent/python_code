@@ -1,0 +1,9 @@
+mydict={
+    "Name":"YIT",
+    "Faculties":"CSE,ECE",
+    "Studentsno":900,
+    "Active":True
+}
+print(mydict)
+print(type(mydict))
+print(mydict['Name'])
